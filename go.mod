@@ -1,4 +1,4 @@
-module github.com/grafana/loki/v2
+module github.com/gleam-G/loki/v2
 
 go 1.20
 
